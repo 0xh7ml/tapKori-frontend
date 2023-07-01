@@ -264,3 +264,44 @@
         text-decoration: none;
         color: #FFC700;
     }
+    .confirm-btn{
+        border: 1px solid #FEC92D;
+        padding: 2px 5px 2px 5px;
+        border-radius: 3px;
+        margin-top: 5px;
+        background-color: transparent;
+        color: #FEC92D;
+        font-family: 'Poppins';
+        font-size: 12px;
+        font-weight: 300;
+
+    }
+    .confirm-btn:hover{
+        background-color: #ffc107;
+        color: #000;
+    }
+    .reject-btn{
+        border: 1px solid rgb(67 56 202);;
+        padding: 2px 7px 2px 7px;
+        border-radius: 3px;
+        margin-top: 5px;
+        background-color: transparent;
+        color: rgb(67 56 202);;
+        font-family: 'Poppins';
+        font-size: 12px;
+        font-weight: 300;
+    }
+    .reject-btn:hover{
+        background-color:rgb(67 56 202);;
+        color: #fff;
+    }
+    .friends-image{
+        position: relative;
+        top: 15px;
+    }
+    .friends-image > img{
+        width: 40px;
+        height: 40px;
+        border-radius: 100%;
+        border: 1px solid #FEC92D;
+    }
