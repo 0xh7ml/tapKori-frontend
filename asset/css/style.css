@@ -281,18 +281,18 @@
         color: #000;
     }
     .reject-btn{
-        border: 1px solid rgb(67 56 202);;
+        border: 1px solid rgb(67 56 202);
         padding: 2px 7px 2px 7px;
         border-radius: 3px;
         margin-top: 5px;
         background-color: transparent;
-        color: rgb(67 56 202);;
+        color: rgb(67 56 202);
         font-family: 'Poppins';
         font-size: 12px;
         font-weight: 300;
     }
     .reject-btn:hover{
-        background-color:rgb(67 56 202);;
+        background-color:rgb(67 56 202);
         color: #fff;
     }
     .friends-image{
