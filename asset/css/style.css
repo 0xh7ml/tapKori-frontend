@@ -305,3 +305,49 @@
         border-radius: 100%;
         border: 1px solid #FEC92D;
     }
+
+    /* 
+    Edit profile section
+    */
+
+    .edit-btn{
+        padding: 8px;
+        color: #EBBF02;
+        font-size: 14px;
+        font-family: 'Poppins';
+        font-weight: 300;
+        word-wrap: break-word;
+        border-radius:5px;
+        box-shadow: 10px 15px 70px rgba(0,0,0,0.1);
+        border: 1px solid #EBBF02;
+        background-color: transparent;
+    }
+    .edit-btn:hover{
+        background: linear-gradient(84deg, #FECE03 0%, #EBBF02 100%); 
+        background: -webkit-linear-gradient(84deg, #FECE03 0%, #EBBF02 100%);
+        color: #000;
+        font-size: 14px;
+        font-family: 'Poppins';
+        font-weight: 300;
+    }
+    textarea.form-control{
+        background-color: #313131;
+        width: 295px;
+        border-radius: 5px;
+        font-family: 'Poppins';
+        color: #4A4A4A;
+        border: 1px solid #4a4a4a;
+        height: 45px;
+        font-size: 14px;
+        font-weight: 200;
+    }
+    .edit-profile > input.form-control{
+        color: #f8f8f8;
+    }
+    .edit-title{
+        text-align: left;
+        color: #fff;
+        font-size: 14px;
+        font-family: 'Poppins';
+        font-weight: 300;
+    }
