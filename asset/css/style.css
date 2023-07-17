@@ -158,6 +158,7 @@
     .nav-icon:last-child{
         right: 30px;
         font-size: 30px;
+        top:10px;
     }
     .profile-image{
         text-align: center;
